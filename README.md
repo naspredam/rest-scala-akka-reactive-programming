@@ -10,10 +10,13 @@ At the same time, those actors, when detect a fraud candidate throws this messag
 sent the message to another downstream system.
 
 ## Software used
+
 Scala version 2.11.8
+
 Akka version 2.4.1
 
 ## Testing
 As this is not recent project, this has not been created in a TDD fashion and the test are done on a jmeter.
+
 The jmx file can be found on the jmx folder on the same project. This is the integration test used to 
 validate that the project is working.
