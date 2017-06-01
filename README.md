@@ -18,7 +18,9 @@ Akka version 2.4.1
 ## Project structure
 
 The main class of the project is:
-> com.reactive.service.fraud.rest.FraudServiceRest
+```
+com.reactive.service.fraud.rest.FraudServiceRest
+```
 
 The packages are stuctured as:
 - com.reactive.service.fraud: Main package of the application with all the logic of the endpoints + akka
