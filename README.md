@@ -23,9 +23,9 @@ com.reactive.service.fraud.rest.FraudServiceRest
 ```
 
 The packages are stuctured as:
-- com.reactive.service.fraud: Main package of the application with all the logic of the endpoints + akka
-- com.reactive.service.examples: examples used in part on the project, that are simple examples that may be of used for other users
-- com.reactive.service.model: data model used on the application
+- *com.reactive.service.fraud*: Main package of the application with all the logic of the endpoints + akka
+- *com.reactive.service.examples*: examples used in part on the project, that are simple examples that may be of used for other users
+- *com.reactive.service.model*: data model used on the application
 
 ## Testing
 As this is not recent project, this has not been created in a TDD fashion and the test are done on a jmeter.
